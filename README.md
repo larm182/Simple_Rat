@@ -1,6 +1,6 @@
 
 
-🖥️ # Simple_Rat con Tkinter (Python)
+🖥️ # Remote Access Tool (RAT) con interfaz gráfica utilizando la librería Tkinter.
 Python
 Tkinter
 
@@ -8,14 +8,24 @@ Este proyecto implementa un ratón virtual utilizando la librería Tkinter en Py
 
 🎯 Funcionalidades principales
 
-Simulación de clics del ratón (izquierdo, derecho, etc.).
+> Ejecución remota de comandos.
+> Captura de pantalla.
+> Keylogger.
+> Transferencia y descarga de archivos.
+> Control remoto de Escritorio
+
+El uso de Tkinter garantiza una interfaz intuitiva y sencilla, mejorando la experiencia del usuario. Este Script refleja la automatización, seguridad informática, y control remoto.
 Visualización gráfica de movimientos en una interfaz minimalista.
 Interacción con botones y eventos para manejar acciones específicas.
 Fácil de personalizar y extender según tus necesidades.
-(Personaliza esta sección si agregaste más funcionalidades, como arrastre, doble clic, etc.)
+
 
 🛠️ Requisitos
 Para ejecutar este proyecto, necesitarás:
+git clone https://github.com/larm182/Simple_Rat.git
+cd Simple_Rat
+pip install -r requirements.txt
+
 
 Python 3.x instalado en tu sistema.
 Conocimientos básicos de programación en Python.
@@ -23,3 +33,4 @@ No se requieren dependencias externas, ya que Tkinter está incluido en la bibli
 
 🚀 Cómo ejecutar el proyecto
 Clona este repositorio en tu máquina local:
+python3 main.py
