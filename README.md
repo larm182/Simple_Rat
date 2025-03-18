@@ -9,9 +9,13 @@ Este proyecto implementa un ratón virtual utilizando la librería Tkinter en Py
 🎯 Funcionalidades principales
 
 > Ejecución remota de comandos.
+
 > Captura de pantalla.
+
 > Keylogger.
+
 > Transferencia y descarga de archivos.
+
 > Control remoto de Escritorio
 
 El uso de Tkinter garantiza una interfaz intuitiva y sencilla, mejorando la experiencia del usuario. Este Script refleja la automatización, seguridad informática, y control remoto.
