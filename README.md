@@ -4,8 +4,6 @@
 Python
 Tkinter
 
-Este proyecto implementa un ratón virtual utilizando la librería Tkinter en Python. La aplicación permite simular interacciones básicas de un ratón mediante una interfaz gráfica simple y funcional. Es ideal para aprender los conceptos básicos de desarrollo de GUIs con Tkinter y explorar cómo manejar eventos en Python.
-
 🎯 Funcionalidades principales
 
 > Ejecución remota de comandos.
