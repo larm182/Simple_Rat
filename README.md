@@ -23,7 +23,9 @@ Fácil de personalizar y extender según tus necesidades.
 🛠️ Requisitos
 Para ejecutar este proyecto, necesitarás:
 git clone https://github.com/larm182/Simple_Rat.git
+
 cd Simple_Rat
+
 pip install -r requirements.txt
 
 
