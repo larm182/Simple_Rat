@@ -36,3 +36,10 @@ No se requieren dependencias externas, ya que Tkinter está incluido en la bibli
 🚀 Cómo ejecutar el proyecto
 Clona este repositorio en tu máquina local:
 python3 main.py
+
+Ejemplo:
+
+![image](https://github.com/user-attachments/assets/1da26ead-70f4-445b-9fed-0e075c5f4f75)
+
+![image](https://github.com/user-attachments/assets/04ff7e2b-479d-404e-b0d0-3541116d1036)
+
